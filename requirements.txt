@@ -1,0 +1,17 @@
+tkinter-html==0.3.0
+folium==0.14.0
+requests==2.31.0
+
+Explanation of Dependencies:
+tkinter-html:
+
+Provides the HTMLLabel widget for displaying HTML content in tkinter.
+Install using: pip install tkinter-html.
+folium:
+
+Used to generate interactive maps.
+Install using: pip install folium.
+requests:
+
+Handles API calls to fetch weather data.
+Install using: pip install requests.
